@@ -60,7 +60,7 @@ jobs:
         uses: docker/build-push-action@v7
         with:
           push: true
-          tags: user/app:latest
+          tags: kninja01/nanasxxxt
               
 
     #- name: Build & push Docker image
